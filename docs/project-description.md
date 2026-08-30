@@ -1,3 +1,4 @@
-
-# Project Description
-This repository contains a Python program and a utility module to track basic Git operations, branches, and merges.
+# Project Description & Objectives
+- Practice local version control using Git.
+- Implement feature branches and merge workflows.
+- Handle python functions with error checking.
